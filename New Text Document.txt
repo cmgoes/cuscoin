@@ -1,0 +1,2 @@
+https://kovan.etherscan.io/token/0x56144a9aac6aff436d8d4e80cb9a0db14c8ec999#balances
+https://blockonomi.com/create-ethereum-token/
